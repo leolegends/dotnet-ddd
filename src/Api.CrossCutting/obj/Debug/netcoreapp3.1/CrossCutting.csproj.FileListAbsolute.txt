@@ -1,0 +1,9 @@
+/Users/whoami/Projects/particular/dotnet/API/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.deps.json
+/Users/whoami/Projects/particular/dotnet/API/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.dll
+/Users/whoami/Projects/particular/dotnet/API/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.pdb
+/Users/whoami/Projects/particular/dotnet/API/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csprojAssemblyReference.cache
+/Users/whoami/Projects/particular/dotnet/API/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfoInputs.cache
+/Users/whoami/Projects/particular/dotnet/API/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfo.cs
+/Users/whoami/Projects/particular/dotnet/API/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csproj.CoreCompileInputs.cache
+/Users/whoami/Projects/particular/dotnet/API/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.dll
+/Users/whoami/Projects/particular/dotnet/API/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.pdb

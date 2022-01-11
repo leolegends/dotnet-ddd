@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/whoami/.dotnet/store/|arch|/|tfm|",
+      "/Users/whoami/.nuget/packages"
+    ]
+  }
+}

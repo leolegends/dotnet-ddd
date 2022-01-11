@@ -1,0 +1,9 @@
+/Users/whoami/Projects/particular/dotnet/API/src/Api.Data/bin/Debug/netcoreapp3.1/Data.deps.json
+/Users/whoami/Projects/particular/dotnet/API/src/Api.Data/bin/Debug/netcoreapp3.1/Data.dll
+/Users/whoami/Projects/particular/dotnet/API/src/Api.Data/bin/Debug/netcoreapp3.1/Data.pdb
+/Users/whoami/Projects/particular/dotnet/API/src/Api.Data/obj/Debug/netcoreapp3.1/Data.csprojAssemblyReference.cache
+/Users/whoami/Projects/particular/dotnet/API/src/Api.Data/obj/Debug/netcoreapp3.1/Data.AssemblyInfoInputs.cache
+/Users/whoami/Projects/particular/dotnet/API/src/Api.Data/obj/Debug/netcoreapp3.1/Data.AssemblyInfo.cs
+/Users/whoami/Projects/particular/dotnet/API/src/Api.Data/obj/Debug/netcoreapp3.1/Data.csproj.CoreCompileInputs.cache
+/Users/whoami/Projects/particular/dotnet/API/src/Api.Data/obj/Debug/netcoreapp3.1/Data.dll
+/Users/whoami/Projects/particular/dotnet/API/src/Api.Data/obj/Debug/netcoreapp3.1/Data.pdb
